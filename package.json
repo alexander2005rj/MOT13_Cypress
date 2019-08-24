@@ -1,0 +1,25 @@
+{
+  "name": "MOT13_Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run" : "./node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander2005rj/MOT13_Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander2005rj/MOT13_Cypress/issues"
+  },
+  "homepage": "https://github.com/alexander2005rj/MOT13_Cypress#readme"
+}
